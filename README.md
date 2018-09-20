@@ -48,5 +48,8 @@ This project setups a video streaming server and initiation of streaming on a ra
 <br> Output
 <br><code> * Running on http://0.0.0.0:5000/ </code>
 
-## Forget everything you've read above, just clone this git repository and run the bootstrap.sh file and you're good to go:
+### Forget everything you've read above, just clone this git repository and run the bootstrap.sh file and you're good to go:
 
+<br><code> git clone https://github.com/tonikalombo/pi-video-streaming.git </code>
+<br><code> cd pi-video-streaming/ </code>
+<br><code> sh bootstrap.sh </code>

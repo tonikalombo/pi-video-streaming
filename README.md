@@ -47,3 +47,6 @@ This project setups a video streaming server and initiation of streaming on a ra
 <br><code> python app.py </code>
 <br> Output
 <br><code> * Running on http://0.0.0.0:5000/ </code>
+
+## Forget everything you've read above, just clone this git repository and run the bootstrap.sh file and you're good to go:
+
